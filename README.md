@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enes Buğra</h1>
+<h1 align="center">Hi 👋, I'm Buğra</h1>
 <h3 align="center">I'm currently interested in iOS Mobile Application Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrayenidunya" alt="bugrayenidunya" /> </p>
