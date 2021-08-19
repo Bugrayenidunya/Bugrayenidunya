@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buğra</h1>
-<h3 align="center">I'm currently interested in iOS Mobile Application Development</h3>
+<h3 align="center">I'm working as an iOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrayenidunya" alt="bugrayenidunya" /> </p>
-
-- 🌱 I’m currently learning **iOS & Swift**
 
 - 📫 How to reach me **bugrayenidunya@gmail.com**
 
