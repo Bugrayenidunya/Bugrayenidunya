@@ -2,8 +2,6 @@
 
 ![alt text](https://user-images.githubusercontent.com/54468032/134862518-90defa57-eaee-4f15-8cca-11122c15b845.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrayenidunya&label=Profile%20views&color=0e75b6&style=flat" alt="bugrayenidunya" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugrayenidunya" alt="bugrayenidunya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bugrayndny" target="blank"><img src="https://img.shields.io/twitter/follow/bugrayndny?logo=twitter&style=for-the-badge" alt="bugrayndny" /></a> </p>
