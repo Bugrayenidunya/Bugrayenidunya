@@ -6,9 +6,8 @@
 
 - 💬 Ask me about **iOS & mobile software development**
 
+### Check out my app "Candlewaster: Reading Tracker" on Product Hunt!
 <a href="https://www.producthunt.com/posts/candlewaster?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-candlewaster" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=309100&theme=light" alt="Candlewaster - Build and improve strong reading habit | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-<a href="https://www.producthunt.com/posts/candlewaster?utm_source=badge-review&utm_medium=badge&utm_souce=badge-candlewaster#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=309100&theme=light" alt="Candlewaster - Build and improve strong reading habit | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
