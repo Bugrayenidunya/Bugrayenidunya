@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buğra</h1>
-![alt text](https://user-images.githubusercontent.com/54468032/134862518-90defa57-eaee-4f15-8cca-11122c15b845.png)
 
-<h1 align="center">Hi 👋, I'm Buğra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![alt text](https://user-images.githubusercontent.com/54468032/134862518-90defa57-eaee-4f15-8cca-11122c15b845.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrayenidunya&label=Profile%20views&color=0e75b6&style=flat" alt="bugrayenidunya" /> </p>
 
