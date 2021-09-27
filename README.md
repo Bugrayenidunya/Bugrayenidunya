@@ -16,6 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nsbugra/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nsbugra/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
