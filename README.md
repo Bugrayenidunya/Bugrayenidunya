@@ -1,3 +1,5 @@
+![alt text](https://user-images.githubusercontent.com/54468032/134862518-90defa57-eaee-4f15-8cca-11122c15b845.png)
+
 <h1 align="center">Hi 👋, I'm Buğra</h1>
 <h3 align="center">Working as an iOS Developer</h3>
 
